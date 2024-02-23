@@ -36,7 +36,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
-		<finalName>spring-boot-github-actions</finalName>
+		<finalName>dks-spring-boot-github-actions</finalName>
 	</build>
 
 </project>
