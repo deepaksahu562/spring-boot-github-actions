@@ -11,7 +11,7 @@ public class CicdDemoApplication {
 
 	@GetMapping("/")
 	public String service(){
-		return "This github action application....!!";
+		return "This github action application.....!!";
 	}
 	public static void main(String[] args) {
 		SpringApplication.run(CicdDemoApplication.class, args);
